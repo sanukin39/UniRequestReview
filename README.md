@@ -21,7 +21,7 @@ UniRequestReview.RequestReview();
 ```
 
 ## Notes
-- The plugin is just wrap [requestReview()](https://developer.apple.com/documentation/storekit/skstorereviewcontroller/2851536-requestreview) method. So, it works only iOS10.3 or higher.
+The plugin is just wrap [requestReview()](https://developer.apple.com/documentation/storekit/skstorereviewcontroller/2851536-requestreview) method. So, it works only iOS10.3 or higher.
 
 ## Reference
 [Apple Documentation - requestReview](https://developer.apple.com/documentation/storekit/skstorereviewcontroller/2851536-requestreview)
