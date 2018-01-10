@@ -12,7 +12,7 @@
 Unity5 or higher
 
 ## Install
-Use unitypackage at release page.
+Use unitypackage at [release page](https://github.com/sanukin39/UniRequestReview/releases).
 
 ## Implementation
 Call method below when you want to request review.
