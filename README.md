@@ -1,3 +1,6 @@
+# Archived
+Use[RequestStoreReview](https://docs.unity3d.com/ScriptReference/iOS.Device.RequestStoreReview.html) Instead
+
 # UniRequestReview
 
 [![UnityVersion](https://img.shields.io/badge/Unity-2017.2.1f1-green.svg)](https://unity3d.com/jp/get-unity/download)
